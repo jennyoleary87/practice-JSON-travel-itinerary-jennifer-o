@@ -1,0 +1,69 @@
+{
+    "trip-name": "Oceans",
+    "traveler": {
+        "name": "Jenny",
+        "contact": {
+            "email": "jenny@gmail.com",
+            "phone": 314-867-5309
+        }
+    },
+    "destinations": [
+        {
+            "location": "Orange Beach",
+            "arrivalDate": 2025-05-06,
+            "departureDate": 2025-05-23,
+            "activities": [
+                {
+                    "title": "Parasailing",
+                    "time": "08:00 AM"
+                },
+                {
+                    "title": "Brunch",
+                    "time": "11:00 AM"
+                }
+            ],
+            "transportation": {
+                "mode": "train",
+                "cost": "29"
+            }
+        },
+        {
+            "location": "Outer Banks",
+            "arrivalDate": 2025-05-24,
+            "departureDate": 2025-05-30,
+            "activities": [
+                {
+                    "title": "Lighthouse",
+                    "time": "03:00 PM"
+                },
+                {
+                    "title": "Dolphin Cruise",
+                    "time": "06:00 PM"
+                }
+            ],
+            "transportation": {
+                "mode": "subway",
+                "cost": "76"
+            }
+        },
+        {
+            "location": "Destin",
+            "arrivalDate": 2025-05-31,
+            "departureDate": 2025-06-09,
+            "activities": [
+                {
+                    "title": "Harbourwalk",
+                    "time": "02:00 PM"
+                },
+                {
+                    "title": "Baytowne Wharf",
+                    "time": "05:00 PM"
+                }
+            ],
+            "transportation": {
+                "mode": "flight",
+                "cost": "147"
+            }
+        }
+    ]
+}
